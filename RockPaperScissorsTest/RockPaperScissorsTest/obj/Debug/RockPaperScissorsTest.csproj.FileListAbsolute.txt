@@ -1,0 +1,10 @@
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\bin\Debug\RockPaperScissorsTest.exe
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\bin\Debug\RockPaperScissorsTest.pdb
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\obj\Debug\RockPaperScissorsTest.csprojAssemblyReference.cache
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\obj\Debug\RockPaperScissorsTest.MainMenuForm.resources
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\obj\Debug\RockPaperScissorsTest.Properties.Resources.resources
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\obj\Debug\RockPaperScissorsTest.csproj.GenerateResource.cache
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\obj\Debug\RockPaperScissorsTest.csproj.CoreCompileInputs.cache
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\obj\Debug\RockPaperScissorsTest.exe
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\obj\Debug\RockPaperScissorsTest.pdb
+C:\Users\polcr\source\repos\RockPaperScissorsTest\RockPaperScissorsTest\obj\Debug\RockPaperScissorsTest.MainGameForm.resources
